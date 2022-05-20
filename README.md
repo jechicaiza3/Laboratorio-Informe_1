@@ -52,10 +52,12 @@ Tabla 1.1. Resultados obtenidos de voltaje y corriente, en cada elemento del cir
 
 Se muestra tanto los resultados de la corriente y  voltaje que se obtuvieron en la medición y en sus respectivos calculos
 
-![image](https://user-images.githubusercontent.com/94098157/142029886-9f312628-1067-4607-ba76-33b68facaf8e.png)
+![image](https://user-images.githubusercontent.com/84757114/169560101-35126001-3131-4d9b-bdb9-d527e189650e.png)
+![image](https://user-images.githubusercontent.com/84757114/169560201-098c8dea-a7a2-4ca6-9781-c29cce4ad50c.png)
+
 Se isieron los respectivos calculos para obtener tanto la corriente y volataje mediante leas leyes de Kirchhoff
 
-![image](https://user-images.githubusercontent.com/94098157/141495283-88a4c4ae-e3e8-439e-8b55-7cbf1d1d42be.png)
+![image](https://user-images.githubusercontent.com/84757114/169560309-128a7d1b-232f-4b75-9428-f4d989d78cbe.png)
 
 Aquí se utiliza la formuala de la ley de ohm para calacular el volatje.
 
@@ -63,13 +65,13 @@ Aquí se utiliza la formuala de la ley de ohm para calacular el volatje.
 
 Tabla 1.2.
 
-![image](https://user-images.githubusercontent.com/94098157/141505169-d2fb16ff-db79-451c-ba9a-cdad30951a4f.png)
+![image](https://user-images.githubusercontent.com/84757114/169555250-3e866c61-dfa9-4a1e-9ef1-b7669fabf01b.png)
 
 *Verifique si se cumple la Ley de Kirchhoff de Corrientes en cada nodo, tomando con signo positivo las corrientes que entran al nodo y con signo negativo las que salendel nodo.*
 
 Tabla 1.3.
 
-![image](https://user-images.githubusercontent.com/94098157/141505421-93ce4a7e-1964-4c9e-9226-253229c9f38b.png)
+![image](https://user-images.githubusercontent.com/84757114/169559723-7be96d1e-5233-4426-9038-b0b21de446a1.png)
 
 **4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR**
 
