@@ -77,15 +77,15 @@ Tabla 1.3.
 
 En esta pracica hemos podido comprobar las leyes de kirchhoff tanto de voltaje en forma trayectoria como en una malla para la corriente en valores medidos y calculados
 
-![image](https://user-images.githubusercontent.com/94098157/142029306-3ffa9711-0dc9-41e5-b8a2-75bddf56f4bc.png)
+![image](https://user-images.githubusercontent.com/84757114/169568366-5e568ac5-b9fb-4e21-b933-29ed1b7ed4e4.png)
+![image](https://user-images.githubusercontent.com/84757114/169568472-0ff5814d-86ea-4cb5-8ef1-f936ca9ac1b4.png)
 
-![image](https://user-images.githubusercontent.com/94098157/141499857-4378f4fd-6542-4909-886d-8be8696c1c53.png)
 
 Aqui se puede ver el margen de error entre lo real y lo teorico en el que es muy bajo significando que las medidads relizadas en el cicuito y los valores calculados son muy semejantes. 
 
 **5. VIDEO:**
 
-https://www.youtube.com/watch?v=wjFvrKyz2m4
+https://youtu.be/c_GtEFuvlWA
 
 **6. CONCLUSIONES**
 - Tener los conceptos claros en lo que ue se refiere a corriente y voltaje y la forma de medirlos para no obtener valores erroneos.
